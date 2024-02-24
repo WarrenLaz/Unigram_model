@@ -1,4 +1,4 @@
-dependencies: 
+dependencies: \n
 pip install spacy
 (python -m spacy download en_core_web_sm
 or
